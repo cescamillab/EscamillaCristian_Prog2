@@ -30,5 +30,7 @@ El sistema debe generar los siguentes PDFs :
 
 3-se muestren unicamente las personas y unicamente los partes asociados a el.
  
+# Link de video de YouTube
+https://youtu.be/To6aooVP1xo
 #  Universidad el Bosque
   > [Universidad el Bosque]( https://www.unbosque.edu.co )
